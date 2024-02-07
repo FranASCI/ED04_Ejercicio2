@@ -1,5 +1,9 @@
 package cuentas;
 
+/** Esto es una primera modificación desde github para la tarea 4 de entornos de desarrollo
+* @autor: Francisco Nuñex Romero
+* */
+
 public class CCuenta {
 
     /**
